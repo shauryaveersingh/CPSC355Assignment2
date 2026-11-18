@@ -1,0 +1,6 @@
+# Generated build files
+*.s
+*.o
+assign2_q[1-5]
+assign2.log
+.DS_Store
